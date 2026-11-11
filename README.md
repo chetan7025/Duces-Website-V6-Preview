@@ -10,3 +10,6 @@ Preview refresh: enforce brighter Royal Blue on homepage overlay and all inner-p
 
 
 Preview refresh: Banking & Finance visual consistency update.
+
+
+Preview refresh: standardised Banking section headings.
