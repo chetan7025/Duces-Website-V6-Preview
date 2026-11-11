@@ -33,6 +33,9 @@ jobs:
         with:
           enablement: true
 
+      - name: Keep static HTML files as-is
+        run: touch site/.nojekyll
+
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
