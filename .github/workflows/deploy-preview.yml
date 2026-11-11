@@ -44,3 +44,5 @@ jobs:
       - name: Deploy preview
         id: deployment
         uses: actions/deploy-pages@v4
+
+# Trigger a clean deployment with a fresh Pages artifact.
