@@ -16,3 +16,6 @@ Preview refresh: standardised Banking section headings.
 
 
 Preview refresh: Banking headings now match Business Setup heading typography.
+
+
+Preview cache refresh: shared Banking heading styles.
