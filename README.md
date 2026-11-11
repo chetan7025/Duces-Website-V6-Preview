@@ -13,3 +13,6 @@ Preview refresh: Banking & Finance visual consistency update.
 
 
 Preview refresh: standardised Banking section headings.
+
+
+Preview refresh: Banking headings now match Business Setup heading typography.
